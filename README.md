@@ -1,13 +1,24 @@
-# Hi there
-I’m a full-stack web developer focused on building reliable, performant, and maintainable products.  
-My main stack revolves around **TypeScript** — on both the client and server.
+<p align="center">
+  <img src="assets/logo-light.png" alt="Logo" width="200" />
+</p>
 
-### What I care about
-- Clean code with clear intent
-- Strong typing and predictable behavior
-- Developer experience and tooling
-- Automated testing that actually protects codebases
-- Systems that scale without turning into spaghetti
+<h1 align="center">“Full-stack developer with big ideas, clean code, and zero apps deployed — for now.”</h1>
 
-### Currently
-Shipping projects, learning continuously, and always looking for ways to reduce complexity while increasing leverage.
+## Hi there 👋
+
+I’m a full-stack web developer focused on building **reliable, performant, and maintainable** web products.  
+My core stack is **TypeScript**, used end-to-end across both the frontend and backend.
+
+I care less about chasing trends and more about writing software that’s easy to understand, evolve, and trust.
+
+## What I care about 🧠
+
+- ✨ Clean, readable code with clear intent
+- 🔒 Strong typing and predictable behavior
+- 🛠️ Thoughtful developer experience and tooling
+- 🧪 Automated tests that genuinely protect the codebase
+- 🧱 Systems that scale without turning into spaghetti
+
+## Currently 🚀
+
+Building and shipping projects, learning continuously, and refining my approach to reduce complexity while increasing leverage.
