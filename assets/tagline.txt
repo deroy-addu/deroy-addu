@@ -1,1 +1,2 @@
-“Full-stack developer with big ideas, clean code, and zero apps deployed — for now.”
+- Full-stack developer with big ideas, clean code, and zero apps deployed — for now.
+- Clean code, thoughtful systems.
