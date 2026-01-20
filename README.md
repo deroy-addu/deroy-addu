@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="assets/logo-light.png#gh-light-mode-only" alt="Logo" width="200">
-  <img src="assets/logo-dark.png#gh-dark-mode-only" alt="Logo" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+    <img
+      alt="Project logo"
+      src="assets/logo-light.png"
+      width="200"
+    />
+  </picture>
 </p>
 
 <h1 align="center">“Full-stack developer with big ideas, clean code, and zero apps deployed — for now.”</h1>
