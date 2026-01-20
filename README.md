@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
@@ -8,7 +8,7 @@
       width="200"
     />
   </picture>
-</p>
+</div>
 
 <h1 align="center">“Full-stack developer with big ideas, clean code, and zero apps deployed — for now.”</h1>
 
